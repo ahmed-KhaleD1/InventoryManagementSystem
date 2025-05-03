@@ -1,0 +1,28 @@
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Domain.deps.json
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Domain.runtimeconfig.json
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Domain.dll
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Domain.pdb
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.csproj.AssemblyReference.cache
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.AssemblyInfoInputs.cache
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.AssemblyInfo.cs
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.dll
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Domain\obj\Debug\net8.0\refint\InventoryManagement.Domain.dll
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.pdb
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.genruntimeconfig.cache
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Domain\obj\Debug\net8.0\ref\InventoryManagement.Domain.dll
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Domain.deps.json
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Domain.runtimeconfig.json
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Domain.dll
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Domain.pdb
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.csproj.AssemblyReference.cache
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.AssemblyInfoInputs.cache
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.AssemblyInfo.cs
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.dll
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Domain\obj\Debug\net8.0\refint\InventoryManagement.Domain.dll
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.pdb
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.genruntimeconfig.cache
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Domain\obj\Debug\net8.0\ref\InventoryManagement.Domain.dll

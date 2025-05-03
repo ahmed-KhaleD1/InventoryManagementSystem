@@ -1,0 +1,34 @@
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Infrastructure\bin\Debug\net8.0\InventoryManagement.Infrastructure.deps.json
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Infrastructure\bin\Debug\net8.0\InventoryManagement.Infrastructure.runtimeconfig.json
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Infrastructure\bin\Debug\net8.0\InventoryManagement.Infrastructure.dll
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Infrastructure\bin\Debug\net8.0\InventoryManagement.Infrastructure.pdb
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Infrastructure\bin\Debug\net8.0\InventoryManagement.Domain.dll
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Infrastructure\bin\Debug\net8.0\InventoryManagement.Domain.pdb
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Infrastructure\obj\Debug\net8.0\InventoryManagement.Infrastructure.csproj.AssemblyReference.cache
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Infrastructure\obj\Debug\net8.0\InventoryManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Infrastructure\obj\Debug\net8.0\InventoryManagement.Infrastructure.AssemblyInfoInputs.cache
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Infrastructure\obj\Debug\net8.0\InventoryManagement.Infrastructure.AssemblyInfo.cs
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Infrastructure\obj\Debug\net8.0\InventoryManagement.Infrastructure.csproj.CoreCompileInputs.cache
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Infrastructure\obj\Debug\net8.0\Inventor.D66612EB.Up2Date
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Infrastructure\obj\Debug\net8.0\InventoryManagement.Infrastructure.dll
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Infrastructure\obj\Debug\net8.0\refint\InventoryManagement.Infrastructure.dll
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Infrastructure\obj\Debug\net8.0\InventoryManagement.Infrastructure.pdb
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Infrastructure\obj\Debug\net8.0\InventoryManagement.Infrastructure.genruntimeconfig.cache
+E:\ITI\InventoryManagementSystem(interview)\InventoryManagementSystem\InventoryManagement.Infrastructure\obj\Debug\net8.0\ref\InventoryManagement.Infrastructure.dll
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Infrastructure\bin\Debug\net8.0\InventoryManagement.Infrastructure.deps.json
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Infrastructure\bin\Debug\net8.0\InventoryManagement.Infrastructure.runtimeconfig.json
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Infrastructure\bin\Debug\net8.0\InventoryManagement.Infrastructure.dll
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Infrastructure\bin\Debug\net8.0\InventoryManagement.Infrastructure.pdb
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Infrastructure\bin\Debug\net8.0\InventoryManagement.Domain.dll
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Infrastructure\bin\Debug\net8.0\InventoryManagement.Domain.pdb
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Infrastructure\obj\Debug\net8.0\InventoryManagement.Infrastructure.csproj.AssemblyReference.cache
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Infrastructure\obj\Debug\net8.0\InventoryManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Infrastructure\obj\Debug\net8.0\InventoryManagement.Infrastructure.AssemblyInfoInputs.cache
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Infrastructure\obj\Debug\net8.0\InventoryManagement.Infrastructure.AssemblyInfo.cs
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Infrastructure\obj\Debug\net8.0\InventoryManagement.Infrastructure.csproj.CoreCompileInputs.cache
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Infrastructure\obj\Debug\net8.0\Inventor.D66612EB.Up2Date
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Infrastructure\obj\Debug\net8.0\InventoryManagement.Infrastructure.dll
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Infrastructure\obj\Debug\net8.0\refint\InventoryManagement.Infrastructure.dll
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Infrastructure\obj\Debug\net8.0\InventoryManagement.Infrastructure.pdb
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Infrastructure\obj\Debug\net8.0\InventoryManagement.Infrastructure.genruntimeconfig.cache
+E:\ITI\interview projects\InventoryManagement(Ropoost)\InventoryManagement.Infrastructure\obj\Debug\net8.0\ref\InventoryManagement.Infrastructure.dll
